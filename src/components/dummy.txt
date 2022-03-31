@@ -1,0 +1,5 @@
+<span className="e-avatar e-avatar-xlarge"></span>
+        <span className="e-avatar e-avatar-large"></span>
+        <span className="e-avatar"></span><span className="e-avatar e-avatar-xlarge"></span>
+        <span className="e-avatar e-avatar-large"></span>
+        <span className="e-avatar"></span>
